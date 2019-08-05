@@ -1,0 +1,29 @@
+body {
+	font-family: arial, sans-serif;
+}
+
+#result{
+	
+	height: 4em;
+}
+
+#result_main{
+	font-weight: bold;
+	line-height: 4em;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+#range_result{
+	vertical-align: middle;
+	display: inline-block;
+	color: #f00;
+	font-size: 3em;
+}
+
+#greska{
+	display: none;
+	padding: 1em;
+	color:#f00;
+	font-weight: bold;
+}
